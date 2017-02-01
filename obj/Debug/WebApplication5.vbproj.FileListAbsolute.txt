@@ -1,0 +1,296 @@
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ApplicationInsights.config
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\csc.exe
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\vbc.exe
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\WebApplication5.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\WebApplication5.xml
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.Web.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.Web.xml
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.vbprojResolveAssemblyReference.cache
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.Resources.resources
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.vbproj.GenerateResource.Cache
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.xml
+c:\users\bhark\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\bhark\Documents\Visual Studio 2015\Projects\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+A:\ASP.NET\Adding CSS\WebApplication5\bin\ApplicationInsights.config
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\csc.exe
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\vbc.exe
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\VBCSCompiler.exe
+A:\ASP.NET\Adding CSS\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+A:\ASP.NET\Adding CSS\WebApplication5\bin\WebApplication5.dll.config
+A:\ASP.NET\Adding CSS\WebApplication5\bin\WebApplication5.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\WebApplication5.pdb
+A:\ASP.NET\Adding CSS\WebApplication5\bin\WebApplication5.xml
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.AI.Web.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.AI.Web.xml
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+A:\ASP.NET\Adding CSS\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\ASP.NET\Adding CSS\WebApplication5\obj\Debug\WebApplication5.vbprojResolveAssemblyReference.cache
+A:\ASP.NET\Adding CSS\WebApplication5\obj\Debug\WebApplication5.Resources.resources
+A:\ASP.NET\Adding CSS\WebApplication5\obj\Debug\WebApplication5.vbproj.GenerateResource.Cache
+A:\ASP.NET\Adding CSS\WebApplication5\obj\Debug\WebApplication5.dll
+A:\ASP.NET\Adding CSS\WebApplication5\obj\Debug\WebApplication5.xml
+A:\ASP.NET\Adding CSS\WebApplication5\obj\Debug\WebApplication5.pdb
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\ApplicationInsights.config
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\csc.exe
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\vbc.exe
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\VBCSCompiler.exe
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\WebApplication5.dll.config
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\WebApplication5.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\WebApplication5.pdb
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\WebApplication5.xml
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.AI.Web.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.AI.Web.xml
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+A:\ASP.NET\Adding Server Controls\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\ASP.NET\Adding Server Controls\WebApplication5\obj\Debug\WebApplication5.vbprojResolveAssemblyReference.cache
+A:\ASP.NET\Adding Server Controls\WebApplication5\obj\Debug\WebApplication5.Resources.resources
+A:\ASP.NET\Adding Server Controls\WebApplication5\obj\Debug\WebApplication5.vbproj.GenerateResource.Cache
+A:\ASP.NET\Adding Server Controls\WebApplication5\obj\Debug\WebApplication5.dll
+A:\ASP.NET\Adding Server Controls\WebApplication5\obj\Debug\WebApplication5.xml
+A:\ASP.NET\Adding Server Controls\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\ApplicationInsights.config
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\csc.exe
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\vbc.exe
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\VBCSCompiler.exe
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.dll.config
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.pdb
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.xml
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.Web.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.Web.xml
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.vbprojResolveAssemblyReference.cache
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.Resources.resources
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.vbproj.GenerateResource.Cache
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.xml
+C:\Users\bhark\Desktop\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.pdb
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\ApplicationInsights.config
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\csc.exe
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\vbc.exe
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\VBCSCompiler.exe
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.dll.config
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.pdb
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.xml
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.Web.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.Web.xml
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.vbprojResolveAssemblyReference.cache
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.Resources.resources
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.vbproj.GenerateResource.Cache
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.dll
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.xml
+A:\ASP.NET\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.pdb
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\ApplicationInsights.config
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\csc.exe
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\vbc.exe
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\VBCSCompiler.exe
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.dll.config
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.pdb
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\WebApplication5.xml
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.Web.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.Web.xml
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.vbprojResolveAssemblyReference.cache
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.Resources.resources
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.vbproj.GenerateResource.Cache
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.dll
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.xml
+A:\ASP.NET\Backup\Adding Server Controls with Functionality\WebApplication5\obj\Debug\WebApplication5.pdb
+A:\ASP.NET\Application\My Project\WebApplication5\bin\ApplicationInsights.config
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\csc.exe
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\vbc.exe
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\VBCSCompiler.exe
+A:\ASP.NET\Application\My Project\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+A:\ASP.NET\Application\My Project\WebApplication5\bin\WebApplication5.dll.config
+A:\ASP.NET\Application\My Project\WebApplication5\bin\WebApplication5.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\WebApplication5.pdb
+A:\ASP.NET\Application\My Project\WebApplication5\bin\WebApplication5.xml
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.AI.Web.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.AI.Web.xml
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+A:\ASP.NET\Application\My Project\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\ASP.NET\Application\My Project\WebApplication5\obj\Debug\WebApplication5.vbprojResolveAssemblyReference.cache
+A:\ASP.NET\Application\My Project\WebApplication5\obj\Debug\WebApplication5.Resources.resources
+A:\ASP.NET\Application\My Project\WebApplication5\obj\Debug\WebApplication5.vbproj.GenerateResource.Cache
+A:\ASP.NET\Application\My Project\WebApplication5\obj\Debug\WebApplication5.dll
+A:\ASP.NET\Application\My Project\WebApplication5\obj\Debug\WebApplication5.xml
+A:\ASP.NET\Application\My Project\WebApplication5\obj\Debug\WebApplication5.pdb
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\ApplicationInsights.config
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\csc.exe
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\vbc.exe
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\VBCSCompiler.exe
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\WebApplication5.dll.config
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\WebApplication5.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\WebApplication5.pdb
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\WebApplication5.xml
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.AI.Web.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.AI.Web.xml
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\obj\Debug\WebApplication5.vbprojResolveAssemblyReference.cache
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\obj\Debug\WebApplication5.Resources.resources
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\obj\Debug\WebApplication5.vbproj.GenerateResource.Cache
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\obj\Debug\WebApplication5.dll
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\obj\Debug\WebApplication5.xml
+A:\Master's\Spring 2016\ASP.NET with VB\Application\My Project\WebApplication5\obj\Debug\WebApplication5.pdb

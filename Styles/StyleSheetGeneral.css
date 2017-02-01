@@ -1,0 +1,277 @@
+﻿
+h1 {
+    font-family: Helvetica,Arial,sans-serif;
+    color: #FFF;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: normal;
+    margin: 38px 0 0;
+}
+
+.first-panel h3 {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: normal;
+    margin: 0 0 47px;
+    font-family: Helvetica, Arial,sans-serif;
+}
+
+h2 {
+    font-family: Helvetica, Arial,sans-serif;
+    font-weight: 200;
+}
+
+.first-panel {
+    background-image: url('../Images/hero.jpg');
+    padding: 10px;
+}
+
+.second-panel, .third-panel, .fourth-panel, .fifth-panel, .sixth-panel, .seven-panel {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+    .fourth-panel ul {
+        list-style-type: none;
+    }
+
+footer {
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    top: 0px;
+    position: fixed;
+    width: 100%;
+}
+
+footer table tr ul li {
+    list-style-type: none;
+}
+
+.inline {
+    text-align: center;
+    width: 1024px;
+    height: 69px;
+    margin-left: 99px;
+}
+
+    .inline li {
+        display: inline;
+        padding: 10px;
+    }
+
+        .inline li a {
+            color: darkgray;
+            font-family: proxima-nova,"Helvetica Neue",Helvetica,sans-serif;
+        }
+
+            .inline li a:hover {
+                color: white;
+                text-decoration: underline;
+            }
+
+
+hr {
+    color: darkgray;
+}
+
+.header, .first-panel, .second-panel, .third-panel, .fourth-panel, .fifth-panel, .sixth-panel, .seven-panel {
+    padding-left: 12%;
+    padding-right: 12%;
+    font-family: Helvetica, Arial,sans-serif;
+}
+
+.header-bottom a {
+    text-decoration: none;
+    color: white;
+}
+
+.cards {
+    font-size: medium;
+    font-family: Helvetica, Arial,sans-serif;
+    color: white;
+}
+
+.container ul li h3 {
+    color: white;
+    font-family: Helvetica, Arial,sans-serif;
+}
+
+.container {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+    .container ul li {
+        color: darkgrey;
+        font-family: Helvetica, Arial,sans-serif;
+    }
+
+        .container ul li a {
+            text-decoration: none;
+            color: darkgray;
+        }
+
+            .container ul li a:hover {
+                color: white;
+                text-decoration: underline;
+            }
+
+.header-bottom table tr td a {
+    font-size: smaller;
+}
+
+    .header-bottom table tr td a:hover {
+        text-decoration-line: underline;
+        text-decoration: underline;
+        text-decoration-color: yellow;
+    }
+
+.cards .button {
+    width: 200px;
+    height: 250px;
+    color: white;
+    text-align: center;
+    vertical-align: central;
+    padding-bottom: 100px;
+    border: none;
+    font-family: Helvetica, Arial,sans-serif;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+.submit {
+    color: white;
+    padding: 5px 10px;
+    background-color: black;
+    border-radius: 3px;
+    font-size: smaller;
+    border: none;
+    font-family: Helvetica, Arial,sans-serif;
+}
+
+.seven-panel .button {
+    background-color: #f1af05;
+    color: black;
+    font-family: Helvetica, Arial,sans-serif;
+    height: 40px;
+    width: 120px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 445px;
+}
+
+
+.Library {
+    background-color: black;
+    color: white;
+    font-family: "Microsoft Sans Serif";
+    font-size: small;
+    height: 22px;
+    width: 145px;
+    border: thick;
+}
+
+.Featured {
+    background-color: black;
+    color: white;
+    font-family: "Microsoft Sans Serif";
+    font-size: small;
+    height: 22px;
+    width: 125px;
+    border: thick;
+    caption-side: top;
+    clear: both;
+}
+
+    .Library option, .Featured option {
+        line-height: 1.5;
+    }
+
+.fourth-panel button {
+    height: 90px;
+    width: 100px;
+    background-color: #086691;
+    color: white;
+    border-radius: 12px;
+    border: none;
+    padding: 2px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.ServerButton {
+    background-color: #f1af05;
+    color: White;
+    height: 40px;
+    width: 120px;
+    border: none;
+    border-radius: 5px;
+}
+
+.LineSpace li {
+    margin-top: 10px;
+}
+
+.inline li a {
+    text-decoration: none;
+}
+
+    .inline li a:hover {
+        text-decoration: underline;
+        color: white;
+    }
+
+.tweets ul li {
+    font-size: 15px;
+    line-height: 25px;
+    padding-top: 10px;
+    background-color: #d6d4d0;
+    border-radius: 10px;
+    list-style-type: none;
+    height: 125px;
+    width: 310px;
+    padding-left:15px;
+}
+
+.tweetsFirst {
+    margin-top:15px;
+    font-size: 15px;
+    line-height: 25px;
+    padding-top: 10px;
+    background-color: #d6d4d0;
+    border-radius: 10px;
+    height: 125px;
+    width: 310px;
+   padding-left:15px;
+}
+.grid{
+    color: white; 
+    padding: 5px 10px;
+    background-color: #1affa3; 
+    border-radius: 3px; 
+    font-size: smaller; 
+    font-weight:bold;
+    font-family: Helvetica, Arial,sans-serif; 
+    text-decoration: none;
+}
+.first-panel a{
+    margin-left:200px;
+}
+.style7 tbody tr td:first-child {
+    text-align: right;
+    width: 50px;
+    padding-right:0;
+}
+ 

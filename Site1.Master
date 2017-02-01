@@ -1,0 +1,331 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="WebApplication5.Site1" %>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Online Video Tutorials &amp; Training at Lynda.com</title>
+    <link rel="stylesheet" type="text/css" href="Styles/StyleSheetGeneral.css" />
+    <script type="text/javascript"> 
+     <!-- 
+    function toggle_visibility(id) {
+        var e = document.getElementById(id);
+        if (e.style.display == 'block') {
+            e.style.display = 'none';
+        }
+        else {
+            e.style.display = 'block';
+        }
+    }
+    //--> 
+    function dropDownDisplay() {
+        var checkbox = document.getElementById("CheckBox1");
+        var dropdown = document.getElementById("DropDownList1");
+        if (checkbox.checked) {
+            Mobile.style.display = 'block';
+            dropdown.style.display = 'block';
+        } else {
+            dropdown.value = "Select Mobile";
+            dropdown.style.display = 'none';
+            Mobile.style.display = 'none';
+        }
+    }
+    var func1 = function (num, exp) {
+        /* RECURSIVE FUNCTION
+        if (exp === 0) {
+            return 1;
+        }
+        return num * func1(num, exp - 1);
+        */
+        //NON-RECURSIVE FUNCTION
+        var powerOf = 1;
+        while (exp > 0) {
+            powerOf *= num;
+            exp -= 1;
+        }
+        return powerOf;
+    }
+    //alert("Exponent is:" + func1(3, 5));
+    //var exponent = func1(2, 10);
+    //$(function () {
+    //    $('#Power').text("Exponent of 2 and 10: "+exponent);
+    //});
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="Main">
+            <br />
+            <!-- This is just a reference-->
+            <header>
+                <div class="header">
+                    <table>
+                        <tr>
+                            <td>
+                                <a href="#">
+                                    <img src="Images\logo.png" /></a></td>
+                            <td>
+                                <select class="Library">
+                                    <option>LIBRARY</option>
+                                    <option>3D + Animation</option>
+                                    <option>Audio + Music</option>
+                                    <option>Business</option>
+                                    <option>CAD</option>
+                                    <option>Design</option>
+                                    <option>Developer</option>
+                                    <option>Education+ELearning</option>
+                                    <option>IT</option>
+                                    <option>Marketing</option>
+                                    <option>Photography</option>
+                                    <option>Video</option>
+                                    <option>Web</option>
+                                </select>
+                            </td>
+                            <td>
+                                <select class="Library">
+                                    <option value="Featured">FEATURED</option>
+                                    <option value="Author">AUTHOR</option>
+                                    <option value="Documentaries">DOCUMENTARIES</option>
+                                    <option value="Playlists">PLAYLISTS</option>
+                                    <option value="Software">SOFTWARE</option>
+                                </select>
+                            </td>
+                            <td style="width:107px;">
+                            </td>
+                            <td>
+                                <input type="text" style="width: 310px;" placeholder="Search for the software or skills you want to learn" />
+                                <input type="submit" class="submit" value="Log in" />
+                                <a href="#" onclick="toggle_visibility('popupbox');" style="color: white; padding: 5px 10px; background-color: deepskyblue; border-radius: 3px; font-size: smaller; font-family: Helvetica, Arial,sans-serif; text-decoration: none;">Sign up</a></td>
+                        </tr>
+                    </table>
+
+                    <div class="header-bottom">
+                        <table>
+                            <tr>
+                                <td><a href="#">Start A Free Trail</a>&nbsp;&nbsp;&nbsp;
+                                    <a href="#">Reactivate</a></td>
+                                <td style="width: 350px;"></td>
+                                <td>
+                                    <label style="color: white; font-size: smaller;">Solution for:</label></td>
+                                <td>
+                                    <select class="Featured">
+                                        <option>Business</option>
+                                        <option>Small Business</option>
+                                        <option>MidMarket</option>
+                                        <option>Fortune 1000</option>
+                                        <option>Non Profit</option>
+                                    </select></td>
+                                <td>
+                                    <select class="Featured">
+                                        <option>Academic</option>
+                                        <option>Higher Education</option>
+                                        <option>K-12</option>
+                                    </select></td>
+                                <td>
+                                    <select class="Featured">
+                                        <option>Government</option>
+                                        <option>State</option>
+                                        <option>Federal</option>
+                                    </select></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <a href="#" style="margin-left:300px;">
+                        <asp:LinkButton ID="GridViewButton" CssClass="grid" runat="server" Text="View GridView" OnClick="GridViewButton_Click" />
+                        <asp:LinkButton ID="GridViewButtonSQL" CssClass="grid" runat="server" Text="View GridView with SQL" OnClick="GridViewButtonSQL_Click"></asp:LinkButton>
+                    </a>
+                </div>
+            </header>
+            <br />
+            <br />
+            <!-- Server Controls Starts-->
+
+            <div id="popupbox" style="font-family: Helvetica, Arial,sans-serif; display: none; background-color: #cc9966;" runat="server">
+                <asp:Table ID="Table1" runat="server" HorizontalAlign="Center" CellSpacing="20" CellPadding="4">
+                    <asp:TableRow>
+                        <asp:TableCell>
+                            <asp:Label runat="server" Text="First Name" Style="color: white;"></asp:Label>&nbsp;&nbsp;
+                            <asp:TextBox ID="Firstname" runat="server" ToolTip="Enter First Name"></asp:TextBox>
+                        </asp:TableCell>
+                        <asp:TableCell>
+                            <asp:Label runat="server" Text="Last Name" Style="color: white;"></asp:Label>&nbsp;&nbsp;
+                            <asp:TextBox ID="Lastname" runat="server" ToolTip="Enter LastName"></asp:TextBox>
+                        </asp:TableCell>
+                        <asp:TableCell>
+                            <asp:Label runat="server" Text="Email" Style="color: white;"></asp:Label>&nbsp;&nbsp;
+                            <asp:TextBox ID="Email" runat="server" ToolTip="Enter email"></asp:TextBox>
+                        </asp:TableCell>
+                    </asp:TableRow>
+                    <asp:TableRow>
+                        <asp:TableCell>
+                            <asp:Label runat="server" Text="LoginID" Style="color: white;"></asp:Label>&nbsp;&nbsp;
+                            <asp:TextBox ID="Login" runat="server" ToolTip="Enter LoginId"></asp:TextBox>
+                        </asp:TableCell>
+                        <asp:TableCell>
+                            <asp:Label ID="Label2" runat="server" Text="Interested Couses" Style="color: white;"></asp:Label>&nbsp;&nbsp;
+                            <asp:CheckBoxList ID="InterestedCourses" runat="server" AutoPostBack="false">
+                                <asp:ListItem ID="Ajax" Text="AJAX" Value="AJAX"></asp:ListItem>
+                                <asp:ListItem ID="Php" Text="PHP" Value="PHP"></asp:ListItem>
+                                <asp:ListItem ID="Hadoop" Text="HADOOP" Value="HADOOP"></asp:ListItem>
+                                <asp:ListItem ID="NoSql" Text="NOSQL" Value="NOSQL"></asp:ListItem>
+                                <asp:ListItem ID="Azure" Text="AZURE" Value="AZURE"></asp:ListItem>
+                            </asp:CheckBoxList>
+                        </asp:TableCell>
+                        <asp:TableCell>
+                            <asp:Label ID="Label3" runat="server" Text="Premium you Want" Style="color: white;"></asp:Label>&nbsp;&nbsp;
+                            <asp:DropDownList ID="Premium" OnSelectedIndexChanged="Premium_SelectedIndexChanged" runat="server" ToolTip="Select the premium you want">
+                                <%--<asp:ListItem Text="Select the Membership plan" Value="Select the Membership plan" ></asp:ListItem>
+                                <asp:ListItem Text="$29-Single Value" Value="$29-Single Value"></asp:ListItem>
+                                <asp:ListItem Text="$75-Triple Value" Value="$75-Triple Value"></asp:ListItem>
+                                <asp:ListItem Text="$145-Half Dozen Value" Value="$150-Half Dozen Value"></asp:ListItem>
+                                <asp:ListItem Text="$285-Dozen Value" Value="$285-Dozen Value"></asp:ListItem>--%>
+                            </asp:DropDownList>
+                        </asp:TableCell>
+                    </asp:TableRow>
+                    <asp:TableRow>
+                        <asp:TableCell>
+                            <asp:Label runat="server" Text="Need a Free Trail?" Style="color: white;"></asp:Label>&nbsp;&nbsp;
+                            <asp:RadioButton ID="NeedTrailYes" Text="Yes" Value="Yes" runat="server" OnCheckedChanged="NeedFreeTrial_SelectedIndexChanged" GroupName="NeedFreeTrail" />
+                            <asp:RadioButton ID="NeedTrailNo" Text="No" Value="No" runat="server" OnCheckedChanged="NeedFreeTrial_SelectedIndexChanged" GroupName="NeedFreeTrail" />
+                        </asp:TableCell>
+                        <asp:TableCell>
+                            <asp:Label ID="Label1" runat="server" Text="Type of Payment" Style="color: white;"></asp:Label>&nbsp;&nbsp;
+                            <asp:RadioButtonList ID="Payment" OnSelectedIndexChanged="Payment_SelectedIndexChanged" runat="server">
+                                <asp:ListItem ID="DebitCard" Text="Debit Card" Value="Debit Card"></asp:ListItem>
+                                <asp:ListItem ID="CreditCard" Text="Credit Card" Value="Credit Card"></asp:ListItem>
+                                <asp:ListItem ID="ECheck" Text="E-Check" Value="E-Check"></asp:ListItem>
+                            </asp:RadioButtonList>
+                        </asp:TableCell>
+                        <asp:TableCell>
+                            <asp:Label Style="color: white;" runat="server" Text="Registration"></asp:Label>
+                            <asp:CheckBox ID="CheckBox1" runat="server" Text="Mobile Registraion" />
+                        </asp:TableCell>
+                        <asp:TableCell>
+                            <asp:Label ID="Mobile" Style="color: white; display: none;" runat="server" Text="Mobile"></asp:Label>
+                            <asp:DropDownList ID="DropDownList1" runat="server" Style="display: none;">
+                                <asp:ListItem>Select Mobile</asp:ListItem>
+                                <asp:ListItem>Lumia 540</asp:ListItem>
+                                <asp:ListItem>Lumia 520</asp:ListItem>
+                            </asp:DropDownList>
+                        </asp:TableCell>
+                    </asp:TableRow>
+                    <asp:TableRow>
+                        <asp:TableCell>
+                            <asp:Button ID="CheckOut" CssClass="ServerButton" OnClick="Checkout_Click" runat="server" Text="Insert" />
+                        </asp:TableCell>
+                        <asp:TableCell>
+                            <asp:Button ID="Update" CssClass="ServerButton" runat="server" Text="Update" OnClick="Update_Click" />
+                        </asp:TableCell>
+                        <asp:TableCell>
+                            <asp:Button runat="server" CssClass="ServerButton" ID="Delete" Text="Delete" OnClick="Delete_Click" />
+                        </asp:TableCell>
+                        <asp:TableCell>
+                            <asp:Button ID="Clear" CssClass="ServerButton" OnClick="Clear_Click" runat="server" Text="Clear" />
+                        </asp:TableCell>
+                    </asp:TableRow>
+                </asp:Table>
+                <asp:Label ID="body" runat="server" Style="color: white;"></asp:Label>
+                <asp:Label ID="sql" runat="server" Style=" margin-left:200px; color: white;"></asp:Label>
+               
+            </div>
+            <!-- Server Control Ends-->
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" />
+            <footer>
+                <div class="container">
+                    <div style="height: 30%; width: 100%; overflow: hidden;">
+                        <div style="float: left; width: 160px; height: 300px;">
+                            <ul class="LineSpace" style="list-style-type: none;">
+                                <li>
+                                    <h3>About Us</h3>
+                                </li>
+                                <li><a href="#">About Us </a></li>
+                                <li><a href="#">Careers</a></li>
+                                <li><a href="#">Press Center</a></li>
+                                <li><a href="#">Call for Trainers</a></li>
+                                <li><a href="#">Video2Brain</a></li>
+                            </ul>
+
+                        </div>
+                        <div style="float: left; width: 200px; height: 300px;">
+                            <ul class="LineSpace" style="list-style-type: none;">
+                                <li>
+                                    <h3>Products</h3>
+                                </li>
+                                <li><a href="#">Our Plans</a></li>
+                                <li><a href="#">Free Trial</a></li>
+                                <li><a href="#">Academic Solutions</a></li>
+                                <li><a href="#">Business Solutions</a></li>
+                                <li><a href="#">Government Solutions</a></li>
+                            </ul>
+
+                        </div>
+                        <div style="float: left; width: 210px; height: 300px;">
+                            <ul class="LineSpace" style="list-style-type: none;">
+                                <li>
+                                    <h3>Support</h3>
+                                </li>
+                                <li><a href="#">Contact Us</a></li>
+                                <li><a href="#">System Requirements</a></li>
+                                <li><a href="#">Register Activation Key</a></li>
+                                <li><a href="#">Site Feedback</a></li>
+                            </ul>
+                        </div>
+                        <div style="float: left; width: 160px; height: 300px;">
+                            <ul class="LineSpace" style="list-style-type: none;">
+                                <li>
+                                    <h3>Apps</h3>
+                                </li>
+                                <li><a href="#">iPhone & iPad</a></li>
+                                <li><a href="#">Android</a></li>
+                                <li><a href="#">Windows 8</a></li>
+                                <li><a href="#">Desktop App</a></li>
+                            </ul>
+                        </div>
+                        <div style="float: left; width: 200px; height: 300px;">
+
+                            <ul style="list-style-type: none;">
+                                <li>
+                                    <h3>Connect</h3>
+                                </li>
+                                <li>
+                                    <table>
+                                        <tr>
+                                            <td><a href="#">
+                                                <img src="Images/RssFeed.png" alt="RSS Feed" /></a></td>
+                                            <td><a href="#">
+                                                <img src="Images/twitter.PNG" alt="twitter" /></a></td>
+                                            <td><a href="#">
+                                                <img src="Images/linkedin.png" alt="LinkedIn" /></a></td>
+                                        </tr>
+                                        <tr>
+                                            <td><a href="#">
+                                                <img src="Images/fb.png" alt="Facebook" /></a></td>
+                                            <td><a href="#">
+                                                <img src="Images/google.PNG" alt="google+" />
+                                            </a></td>
+                                            <td><a href="#">
+                                                <img src="Images/mail.png" alt="mail" /></a></td>
+                                        </tr>
+                                    </table>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <hr />
+                <div>
+                    <ul class="inline">
+                        <li><a href="#">&copy;2016&nbsp;&nbsp;lynda.com,Inc</a></li>
+                        <li><a href="#">Site Map</a></li>
+                        <li><a href="#">Partner Program</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Website Use Policy</a></li>
+                        <li>
+                            <a href="#">
+                                <img alt="Logo" src="Images/logo.png" /></a></li>
+                    </ul>
+                </div>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>

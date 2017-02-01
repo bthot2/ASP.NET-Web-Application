@@ -1,0 +1,283 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <!---This section contains title , meta, link to the stylesheet-->
+    <title>S2 Cinemas</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="StyleSheet1.css" />
+</head>
+<body>
+    <!--
+    This is an Movie Multiplex site consists of login, movies,recepies sections.
+    This contains header,section and footer elements
+    -->
+    <header>
+        <h1 style="color:gold;">S2CINEMAS</h1>
+        <ul>
+            <li><a href="#login">Login</a></li>
+            <li><a href="#Register">Register</a></li>
+            <li><a href="#movies">Movies</a></li>
+            <li><a href="#Recepies">Recepies</a></li>
+            <li><a href="#About">About us</a></li>
+        </ul>
+    </header>
+    <section>
+
+        <div id="login">
+            <h2>Login</h2>
+            <hr />
+            <fieldset class="login">
+                <form method="post" action="#">
+                    <label>UserName</label>&nbsp;<input type="text" name="Username" /><br /><br />
+                    <label>Password</label>&nbsp;<input type="password" name="password" /><br /><br />
+                    <input type="submit" value="Submit" />
+                    <input type="reset" value="Reset" /><br /><br />
+                </form><label>New User? </label><a href="#Register" target="_blank"><input type="button" value="Register" /></a>
+            </fieldset><br /><br />
+        </div>
+        <hr />
+        <div id="Register">
+            <h2>Register</h2>
+            <hr />
+            <table border="1">
+                <tr>
+                    <td>
+                        <fieldset>
+                            <img src="Images/subscribe.jpg" />
+                            <marquee direction="left"><bold>Register now</bold></marquee>
+                        </fieldset>
+                    </td>
+                    <td>
+                        <form method="post" action="#" id="register"></form>
+                        <table border="1">
+
+                            <tr>
+                                <td><label>First Name</label></td>
+                                <td><input type="text" name="First Name" form="register" /></td>
+                            </tr>
+                            <tr>
+                                <td><label>Last Name</label></td>
+                                <td><input type="text" name="Last Name" form="register" /></td>
+                            </tr>
+                            <tr>
+                                <td><label>Email</label></td>
+                                <td><input type="text" name="email" form="register" /></td>
+                            </tr>
+                            <tr>
+                                <td><label>Mobile Number</label></td>
+                                <td><input type="number" name="mobile" form="register" /></td>
+                            </tr>
+                            <tr>
+                                <td><label>Password</label></td>
+                                <td><input type="password" name="password" form="register" /></td>
+                            </tr>
+                            <tr>
+                                <td><label>Confirm Password</label></td>
+                                <td><input type="password" name="passord" form="register" /></td>
+                            </tr>
+                            <tr>
+                                <td><label>Gender</label></td>
+                                <td>
+                                    <input type="radio" name="gender" value="male" form="register" />
+                                    <label>Male</label><input type="radio" name="gender"
+                                                              value="female" form="register" /><label>Female</label>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <label>Interested types</label>
+                                    <select name="Interested types" form="register">
+                                        <option value="Select">Select</option>
+                                        <option value="Action">Action</option>
+                                        <option value="Comedy">Comedy</option>
+                                        <option value="Romedy">Romedy</option>
+                                        <option value="Thriller">Thriller</option>
+                                        <option value="Horror">Horror</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr><td><input type="checkbox" name="agree" form="register" /><label>I agree the terms and conditions</label></td></tr>
+                            <tr><td><input type="checkbox" name="not agree" form="register" /><label>I agree that your staff is not<br />&nbsp;&nbsp;&nbsp;&nbsp; responsible for my belongings</label></td></tr>
+                            <tr>
+                                <td><input type="submit" value="Submit" form="register" /></td>
+                                <td><input type="reset" value="Reset" form="register" /></td>
+                            </tr>
+                        </table>
+                    <td>
+                        <fieldset>
+                            <img src="Images/s2.jpg" />
+                            <marquee direction="right"><b>The Biggest Multiplex</b></marquee>
+                        </fieldset>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <hr />
+        <div id="movies">
+            <h2>Movies</h2><hr />
+            <table border="1">
+                <tr>
+                    <td>
+                        <fieldset class="movie">
+                            <a href="https://en.wikipedia.org/wiki/Interstellar_(film)" target="_blank"><img alt="Interstellar" src="Images/interstellar.jpg" /></a><br />
+                            <label>Release Date:February 4<sup>th</sup></label><br />
+                            <label>Show Timings:</label>
+                            <p>Morning 11:45</p>
+                            <p>Matnee 14:45</p>
+                            <p>Frist Show 18:15</p>
+                            <p>Second Show 21:45</p>
+                        </fieldset>
+                    </td>
+
+                    <td>
+                        <fieldset class="movie">
+                            <a href="https://en.wikipedia.org/wiki/The_Martian_(film)" target="_blank"><img alt="The Martian" src="Images/martian.jpg" /></a><br />
+                            <label>Release Date:February 7<sup>th</sup></label><br />
+                            <label>Show Timings:</label>
+                            <p>Morning 11:45</p>
+                            <p>Matnee 14:45</p>
+                            <p>Frist Show 18:15</p>
+                            <p>Second Show 21:45</p><br />
+                        </fieldset>
+                    </td>
+
+                    <td>
+                        <fieldset class="movie">
+                            <a href="https://en.wikipedia.org/wiki/Kung_Fu_Panda_3" target="_blank"><img alt="Kungfu Panda" src="Images/kpanda.jpg" /></a><br />
+                            <label>Release Date:February 3<sup>rd</sup></label><br />
+                            <label>Show Timings:</label>
+                            <p>Morning 11:45</p>
+                            <p>Matnee 14:45</p>
+                            <p>Frist Show 18:15</p>
+                            <p>Second Show 21:45</p><br />
+                        </fieldset>
+                    </td>
+
+                    <td>
+                        <fieldset class="movie">
+                            <a href="https://en.wikipedia.org/wiki/The_Ring_(2002_film)" target="_blank"><img alt="The ring" src="Images/the ring.jpg" /></a><br />
+                            <label>Release Date:February 5<sup>th</sup></label><br />
+                            <label>Show Timings:</label>
+                            <p>Morning 11:45</p>
+                            <p>Matnee 14:45</p>
+                            <p>Frist Show 18:15</p>
+                            <p>Second Show 21:45</p>
+                        </fieldset>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <hr />
+        <div id="Recepies">
+            <h2>Recepies</h2><hr />
+            <label>Following are Recepies</label>
+            <ol>
+                <li>Burger</li>
+                <li>Sandwich</li>
+                <li>Pizza</li>
+                <li>Milkshakes</li>
+            </ol>
+            <article>
+                <h3>Burger</h3>
+                <img src="Images/burger1.jpg" alt="Burger" style="float:left;" />
+                <p1>
+                    A hamburger (also called a beef burger, hamburger sandwich, burger, hamburg or cheeseburger when served
+                    with a slice of cheese) is a sandwich consisting of one or more cooked patties of ground meat, usually beef,
+                    placed inside a sliced bread roll or bun. Hamburgers may be cooked in a variety of ways, including
+                    pan-frying, barbecuing, and flame-broiling. Hamburgers are often served with lettuce, bacon, tomato, onion,
+                    pickles, cheese and condiments such as mustard, mayonnaise, ketchup, relish, and chiles.There have been many
+                    claims about the origin of the hamburger. There is a reference to a "Hamburg steak" as early as 1884 in the Boston Journal.
+                    [OED, under "steak"] On July 5, 1896, the Chicago Daily Tribune made a highly specific claim regarding a "hamburger sandwich"
+                    in an article about a "Sandwich Car": "A distinguished favorite, only five cents, is Hamburger steak sandwich, the meat
+                    for which is kept ready in small patties and 'cooked while you wait' on the gasoline range.According to Congresswoman
+                    Rosa DeLauro, the hamburger, a ground meat patty between two slices of bread, was first created in America in 1900 by Louis Lassen,
+                    a Danish immigrant, owner of Louis' Lunch in New Haven, Connecticut.There have been rival claims by Charlie Nagreen, Frank and
+                    Charles Menches, Oscar Weber Bilby, and Fletcher David.White Castle traces the origin of the hamburger to Hamburg, Germany
+                    with its invention by Otto Kuase.However, it gained national recognition at the 1904 St. Louis World's Fair when the New York
+                    Tribune referred to the hamburger as "the innovation of a food vendor on the pike".No conclusive argument has ever ended the dispute
+                    over invention. An article from ABC News sums up: "One problem is that there is little written history. Another issue is that the spread
+                    of the burger happened largely at the World's Fair, from tiny vendors that came and went in an instant. And it is entirely possible that
+                    more than one person came up with the idea at the same time in different parts of the country.
+                </p1>
+                <br />
+                <p2>
+
+                    The term "burger" can also be applied to the meat patty on its own, especially in the UK where the term
+                    "patty" is rarely used. The term may be prefixed with the type of meat or meat substitute used, as in
+                    "turkey burger", "bison burger", or "veggie burger".
+                </p2><br />
+                <p3>
+                    Hamburgers are sold at fast-food restaurants, diners, and specialty and high-end restaurants
+                    <sub>(where burgers may sell for several times the cost of a fast-food burger)</sub>. There are many international and
+                    regional variations of the hamburger.
+                </p3><br />
+
+            </article>
+            <article>
+                <h3>Sandwich</h3>
+                <img src="Images/sandwich.jpg" alt="Sandwich" style="float:right;" />
+                <p4>
+                    A sandwich is a food item consisting of one or more types of food, such as vegetables, sliced cheese or meat,
+                    placed on or between slices of bread, or more generally any dish wherein two or more pieces of bread serve
+                    as a container or wrapper for some other food.The sandwich was originally a portable food item or
+                    finger food which began to be popular in the Western World. Today sandwiches in various versions are found
+                    worldwide.
+                </p4>
+                <br />
+                <p5>
+                    Sandwiches are a popular type of lunch food, taken to work, school, or picnics to be eaten as part of a
+                    packed lunch. The bread can be used plain, or it can be coated with one or more condiments such as
+                    mayonnaise or mustard to enhance the flavours and texture. As well as being homemade, sandwiches are also
+                    widely sold in restaurants and cafes, and are sometimes served hot as well as cold.There are both
+                    savoury sandwiches, such as deli meat sandwiches, and sweet sandwiches, such as a peanut butter and jelly
+                    sandwich.
+                </p5>
+            </article>
+
+            <article>
+                <h3>MilkShakes</h3>
+                <p6>
+                    A milkshake is a sweet, cold beverage which is usually made from milk, ice cream, or iced milk, and
+                    flavorings or sweeteners such as butterscotch, caramel sauce, chocolate sauce, or fruit syrup. Outside
+                    the United States, milkshakes using ice cream or iced milk are sometimes called a thick milkshake or thick
+                    shake or in New England (outside of Rhode Island) a frappe, to differentiate them from thinner forms of
+                    flavored milk.
+                </p6>
+            </article>
+            <p>For more information<a href="https://en.wikipedia.org/wiki/Milkshake" target="_self">Click Here</a></p>
+        </div>
+        <hr />
+        <div id="aboutus">
+
+        </div>
+    </section>
+    <div class="cardds">
+        <div style="height:100%; width:100%; overflow: hidden;">
+            <div style="float:left; width: 200px; height: 200px; background-color:Yellow;"></div>
+            <div style="float:left; width: 200px; height: 200px; background-color:Blue;"></div>
+            <div style="float:left; width: 200px; height: 200px; background-color:Green;"></div>
+        </div>
+        <div style="height:100%; width:100%; overflow: hidden;">
+            <div style="float:left; width: 200px; height: 200px; background-color:Red;"></div>
+            <div style="float:left; width: 200px; height: 200px; background-color:Purple;"></div>
+            <div style="float:left; width: 200px; height: 200px; background-color:orange;"></div>
+        </div>
+    </div>
+
+    <div id="the whole thing" style="height:100%; width:100%; overflow: hidden;">
+        <div id="leftThing" style="float: left; width:25%; background-color:blue;">Left Side Menu</div>
+        <div id="content" style="float: left; width:50%; background-color:green;">Random Content</div>
+        <div id="rightThing" style="float: left; width:25%; background-color:yellow;">Right Side Menu</div>
+    </div>
+    <footer id="black">
+        <strong style="margin-left:35%">Developed by Bhargav Krishna&nbsp;&nbsp;&copy;s2.thecinemas.com</strong>
+    </footer>
+
+    <frameset cols="25%,*,25%">
+        <frame src="frame_a.htm">
+        <frame src="frame_b.htm">
+        <frame src="frame_c.htm">
+    </frameset>
+
+</body>
+</html>
